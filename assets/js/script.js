@@ -127,6 +127,7 @@ $(".list-group").on("change", "input[type = 'text']", function () {
   var index = $(this)
     .closest(".list-group-item")
     .index();
+    console.log(index);
 
   // update task in array and re-save to localstorage
   tasks[status][index].date = date;
