@@ -3,7 +3,7 @@
   
   <!-- DESCRIPTION -->
   <p align="center">
-  Aplication to add, edit and control Taks, its made responsive and with a polish UI
+  Aplication to add, edit and control Taks, its made responsive and with a polished UI
 
   <!-- DEPLOYED LINK -->
   Live Page: https://saidhadad.github.io/TaskMaster-Pro/
